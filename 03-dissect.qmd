@@ -1,0 +1,80 @@
+---
+title: "Dissecting story by Ishita Khanna"
+author: "Sanna Meer"
+format: 
+  html:
+    toc: true
+    code-fold: true
+---
+
+## Goal
+
+### Who is the target audience?
+
+The target audience according to my understanding is the **general fast food consumer**.  
+The audience is spread across different age groups. It is always recommended to highlight the target audience for an analysis.
+
+### What is the intended message?
+
+The data story aims to **analyse the fast food items nutritional contents** through various visualizations and summaries.
+
+### Why should the audience care or what should the audience do with the message?
+
+This data story is informative and the goal is to make **the audience understand what actually is in their fast foods** along with showing how various components such as fats, calories, cholesterol are related to each other.  
+This is not to influence any fast food food that they intake, it is just to make them aware of whats really going on.
+
+## Story 
+
+### What type of story was it?
+
+This data story was on the lines of **highlighting contrasts** outlining and comparing the items from different restaurants.  
+It also focused on **profiling the outliers** and compare various statistical parameters such as median calories of each restaurant and so on.
+
+### Was the story interesting to you?
+
+The story was quiet interesting and informative. I especially like the part of "fun facts about fast foods" which starts the story on a light and informative note.  
+It was specially interesting for me to see Subway and Taco Bell being in the "healthy category".  
+Although, I was expecting that Mcdonalds ends up at the top with most calories, fat and other components in their items, but was very interesting to see that Sonic ends up with the most calories.
+
+## Selected data
+
+### Was the right data used for the intended message? 
+
+Yes,  the aim was to do a content analysis of the fast food content and the right data is used to convey the intended message.
+
+### What are the limitations of the data used for the story?
+
+The data although mentions explicitly items from the restaurants, however the data has columns that are unclear for example - the column named "salad" which has one value called salad but no clear explanation is given as to what the meaning is.   Also, the data has some missing values which need to be cleaned.
+
+### What data would have made the message more convincing?
+
+The data is a good fit to convey the message but it only relies on values from the **Fast Food Nutrition** website, so the numbers are just from one sources.  
+Perhaps, adding data from other sources to double check these numbers so that there is no dependency on just one source.
+
+## Selected visualisation
+
+### Was the visualisation effective for the intended message?
+
+Yes, a few visualizations were effective in clearly conveying the message such as the restaurant wise differentiation in cholesterol and fat and also the table of median calories by restaurant. Good use of color to show the calorie content.    
+However, the graph of relationship between calories and fat is a bit distracting and unclear to interpret.  
+It is always better to reference the figures so we can easily go back and refer them.
+
+### What other visualisations could be used?
+
+Histograms or density graphs can be used to show distributions of the nutritional contents for easy comparison.  
+The violin plot can also be used as this is an exploratory analysis so its always a good idea to show the visualization in such a manner.
+
+## Aesthetic design
+
+### Are the choices of aesthetic elements helpful in arousing interest without overly hampering cognition?
+
+The author has used good aesthetic elements to arouse the attention of the readers. The visualizations are of good range , having box plot, bar graphs, scatter plots.   However the choice of color palette is very basic and some graphs are hard to interpret because of too many textual elements on them.
+
+### How could the aesthetic design be improved?
+
+For the overall improvement in aesthetics, the author should consider referencing the figures for easy reference.  
+Apart from that, it is always recommended to have meaningful captions for the tables or figures so the reader can get an overall idea from the caption before getting into the details.  
+For the graph with Restaurant wise differentiation in cholesterol and fat,it is recommended to have different colors for different restaurants so that it makes that visual differentiation at the first glance.  
+One of the plots which talks about "harmful" products in Sonic, it is suggested to avoid using extreme words like that as that has different interpretations for different individuals and the heading for the same plot is very long. That might cause the interest of the user to be lost. It is suggested to keep it short and catchy.  
+Distribution of contents is best shown using histogram , density plots , beeswarm or violin plots. It is recommended to use those to convey certain messages.
+
